@@ -1,2 +1,2 @@
 # clustering
-This Repo contains all the projects related to clustering teqhniques
+This Repo contains all the projects related to clustering teqhniques.
